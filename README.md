@@ -3,6 +3,8 @@
 # Overview
 This music player is a simple web-based application that allows you to play, pause, and switch between a set of songs. It's built with HTML, CSS, and JavaScript, and has a user-friendly interface that displays album art, song titles, and artists. The music player also features a progress bar that updates in real-time and allows the user to click anywhere on the bar to jump to a specific point in the song.
 
+<img width="1453" alt="Screenshot 2023-06-16 at 9 56 41 AM" src="https://github.com/KhoaMDao/Music-Player/assets/114627954/69dc9df4-bb8e-41b5-b607-c3e87cd5cffc">
+
 # Structure
 The project consists of three main files:
 
